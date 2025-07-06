@@ -1265,7 +1265,7 @@
       "url": "https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000?view=ppc&o=MTc4LTE3MTk2LDE3OS02OQ==",
       "gtin": "5055950614253",
       "image": "https://www.bulk.com/media/catalog/product/p/u/pure_whey_protein_banana_main_0e7b.jpg",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "price": 12.99,
       "priceCurrency": "GBP",
       "itemCondition": "NewCondition",
@@ -1715,7 +1715,7 @@
       "url": "https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000?view=ppc&o=MTc4LTI2LDE3OS0zNA==",
       "gtin": "5060343742185",
       "image": "https://www.bulk.com/media/catalog/product/p/u/pure_whey_protein_banana_main_0e7b.jpg",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "price": 89.99,
       "priceCurrency": "GBP",
       "itemCondition": "NewCondition",
@@ -1803,7 +1803,7 @@
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 20032,
+    "reviewCount": 20039,
     "bestRating": 5
   }
 }</script>
