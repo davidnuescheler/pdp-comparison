@@ -1803,7 +1803,7 @@
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,
-    "reviewCount": 20050,
+    "reviewCount": 20056,
     "bestRating": 5
   }
 }</script>
@@ -1857,7 +1857,7 @@
     <link rel="preconnect" href="https://www.bulk.com">
   </head>
   <body>
-    <header><div id="store-switcher"><a class="cz" href="https://www.bulk.com/cz/products/pure-whey-protein/bpb-wpc8-0000" hreflang="cs-cz">cz</a><a class="dk" href="https://www.bulk.com/dk/products/pure-whey-proteinpulver-dk/bpb-wpc8-0000" hreflang="da-dk">dk</a><a class="at" href="https://www.bulk.com/at/products/pure-whey-proteintm/bpb-wpc8-0000" hreflang="de-at">at</a><a class="ch" href="https://www.bulk.com/ch/products/pure-whey-protein-de/bpb-wpc8-0000" hreflang="de-ch">ch</a><a class="de" href="https://www.bulk.com/de/products/pure-whey-protein-de/bpb-wpc8-0000" hreflang="de-de">de</a><a class="eu" href="https://www.bulk.com/eu/products/pure-whey-protein/bpb-wpc8-0000" hreflang="en-bg">eu</a><a class="uk" href="https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000" hreflang="en-gb">uk</a><a class="ie" href="https://www.bulk.com/ie/products/pure-whey-protein/bpb-wpc8-0000" hreflang="en-ie">ie</a><a class="es" href="https://www.bulk.com/es/products/pura-proteina-de-suero/bpb-wpc8-0000" hreflang="es-es">es</a><a class="fr" href="https://www.bulk.com/fr/products/proteine-whey-poudre/bpb-wpc8-0000" hreflang="fr-fr">fr</a><a class="it" href="https://www.bulk.com/it/products/proteine-del-siero-del-latte-it/bpb-wpc8-0000" hreflang="it-it">it</a><a class="nl" href="https://www.bulk.com/nl/products/pure-whey-proteintm/bpb-wpc8-0000" hreflang="nl-be">nl</a><a class="pt" href="https://www.bulk.com/pt/products/proteina-whey/bpb-wpc8-0000" hreflang="pt-pt">pt</a><a class="ro" href="https://www.bulk.com/ro/products/pure-whey-protein/bpb-wpc8-0000" hreflang="ro-ro">ro</a><a class="se" href="https://www.bulk.com/se/products/pure-whey-protein-es/bpb-wpc8-0000" hreflang="sv-se">se</a><a class="pl" href="https://www.bulk.com/pl/products/bialko-serwatkowe-wpc-pl/bpb-wpc8-0000" hreflang="pl-pl">pl</a></div></header>
+    <header><div id="store-switcher"><a class="cz" href="https://www.bulk.com/cz/products/pure-whey-protein/bpb-wpc8-0000" hreflang="cs-cz">cz</a><a class="dk" href="https://www.bulk.com/dk/products/pure-whey-proteinpulver-dk/bpb-wpc8-0000" hreflang="da-dk">dk</a><a class="at" href="https://www.bulk.com/at/products/pure-whey-proteintm/bpb-wpc8-0000" hreflang="de-at">at</a><a class="ch" href="https://www.bulk.com/ch/products/pure-whey-protein-de/bpb-wpc8-0000" hreflang="de-ch">ch</a><a class="de" href="https://www.bulk.com/de/products/pure-whey-protein-de/bpb-wpc8-0000" hreflang="de-de">de</a><a class="eu" href="https://www.bulk.com/eu/products/pure-whey-protein/bpb-wpc8-0000" hreflang="en-bg">eu</a><a class="uk" href="https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000" hreflang="en-gb">uk</a><a class="ie" href="https://www.bulk.com/ie/products/pure-whey-protein/bpb-wpc8-0000" hreflang="en-ie">ie</a><a class="es" href="https://www.bulk.com/es/products/pura-proteina-de-suero/bpb-wpc8-0000" hreflang="es-es">es</a><a class="fr" href="https://www.bulk.com/fr/products/proteine-whey-poudre/bpb-wpc8-0000" hreflang="fr-fr">fr</a><a class="it" href="https://www.bulk.com/it/products/proteine-del-siero-del-latte-it/bpb-wpc8-0000" hreflang="it-it">it</a><a class="nl" href="https://www.bulk.com/nl/products/pure-whey-proteintm/bpb-wpc8-0000" hreflang="nl-be">nl</a><a class="pl" href="https://www.bulk.com/pl/products/bialko-serwatkowe-wpc-pl/bpb-wpc8-0000" hreflang="pl-pl">pl</a><a class="pt" href="https://www.bulk.com/pt/products/proteina-whey/bpb-wpc8-0000" hreflang="pt-pt">pt</a><a class="ro" href="https://www.bulk.com/ro/products/pure-whey-protein/bpb-wpc8-0000" hreflang="ro-ro">ro</a><a class="se" href="https://www.bulk.com/se/products/pure-whey-protein-es/bpb-wpc8-0000" hreflang="sv-se">se</a></div></header>
     <main>
       <div>
         <div class="product-details">
@@ -1934,20 +1934,28 @@
             <div>
               <h3 id="pure-whey-protein-1">Pure Whey Protein™</h3>
               <h4 id="22g-of-award-winning-protein-in-every-scoop">22g of award-winning protein in every scoop</h4>
-              <p>Our number one bestselling protein for serious gains. It’s packed with 22g of premium whey protein to fuel your sessions, smash your protein goals and maximise your results.</p>
-              <p>Voted 'Best Whey Protein' by Men's Health Magazine, our Pure Whey delivers results. It’s a five star choice for over 10,000 people.</p>
-              <p>Maximum taste. Maximum gains.</p>
+              <p>Our number one bestselling protein for serious gains. It’s packed with 22g of premium whey protein to fuel your sessions, smash your protein goals and maximise your results*. We only use the highest quality protein, and Pure Whey combines the best taste with the best results. Mix it with water or milk to make it your reward after crushing a workout.</p>
+              <p>Recommended by <a href="https://www.menshealth.com/uk/">Men's Health Magazine</a> for its superior quality, meticulously tested by nutritionists, and a five star choice for over 10,000 people, our Pure Whey fuels every training programme. We make it ourselves with no added sugar and 5g BCAAs — it only includes elite ingredients designed to produce real results.</p>
+              <p>Available in 20+ deliciously creamy flavours, find the taste that fuels your training schedule.</p>
               <h4 id="why-should-i-take-it">Why should I take it?</h4>
-              <p>Serious about upping your game? This is your go-to protein powder containing at least 22g whey protein with 5g BCAAs per scoop. There’s low fat and sugar — just premium protein to power your gains.</p>
-              <p>Need to find out your protein requirements? Depending on your goals, aim for 1.6 to 2.2 grams of protein per kilogram of body weight per day. <a href="https://www.bulk.com/uk/the-core/how-much-protein-do-you-really-need/#:~:text=To%20calculate%20your%20protein%20requirements%20for%20muscle%20mass%2C%20you%20can,less%2C%20to%20the%20lesser%20end">Check out our guide</a> for more information.</p>
-              <p>Bulk Protip: Combine with <a href="https://www.bulk.com/uk/sports-nutrition/creatine">creatine</a> to maximise every session and see the best results</p>
+              <p>This is your go-to protein powder, containing at least 22g whey protein with 5g BCAAs per scoop. There’s low fat and sugar — just premium protein to power your gains.</p>
+              <p>We suggest aiming for 1.6 to 2.2 grams of protein per kilogram of body weight per day. Pure Whey Protein is a must-have in your daily routine to build muscle, maximise progress and see real results.</p>
               <h4 id="why-it-works">Why it works</h4>
               <ul>
-                <li>FUEL YOUR SESSIONS: with our bestselling protein</li>
-                <li>MAXIMISE YOUR RESULTS: with our award-winning formula</li>
-                <li>SMASH YOUR PROTEIN GOALS: 22g+ protein per scoop with 5g BCAAs</li>
-                <li>TASTE THE GAINS: with over 20+ flavours, you can change up your taste to suit your routine</li>
+                <li>FUEL YOUR SESSIONS</li>
+                <li>MAXIMISE YOUR RESULTS</li>
+                <li>SMASH YOUR PROTEIN GOALS</li>
+                <li>TASTE THE GAINS</li>
               </ul>
+              <h4 id="the-science-behind-the-product">The science behind the product</h4>
+              <p>Pure Whey Protein was approved by Men's Health to guarantee it meets the standards we promise. That approval includes a three step process: in-house lab experts run rigorous checks, an accredited nutritionist dissects every ingredient, then it's given to real consumers for review. Over 10,000 customers rated it five stars: "Quality is absolutely amazing. The concentration of the flavour hits perfectly."</p>
+              <p>This protein is a Whey Protein Concentrate, which is very similar to milk (especially in its consistency) but typically with 6x less fat and 3x less carbohydrate. This keeps a higher proportion of protein while reducing calories.</p>
+              <p>This is one of the reasons why it is so popular amongst active people to increase their protein intake without the hassle of cooking every snack. It’s typically mixed with water or milk and has a milkshake texture, unlike protein powders like <a href="https://www.bulk.com/uk/protein/clear-protein">Clear Protein</a>, which tastes more like juice.</p>
+              <p>Some protein powders have even greater concentration of protein by filtering the whey further. These are called <a href="https://www.bulk.com/uk/products/pure-whey-isolate-90/bpb-wpi9-0000">isolates</a> and are included in some more advanced protein powders, while some proteins like <a href="https://www.bulk.com/uk/protein/slow-release-protein">casein based proteins</a> are preferred in the evening due to their slower release.</p>
+              <p>Ensuring quality expectations are met is a key part of Bulk’s responsibility. To ensure this suppliers first need to get approved after thorough testing of the raw ingredients they offer. Once they are approved each batch of raw ingredient received is inspected to ensure it matches the agreed specifications which is then followed by blending (making the final product) which then gets sampled and taste tested to compare it with our “gold standard” product sample. If the product meets our strict criteria it will be dated and the batch coded to be stored and ready to be sold. These steps are key in ensuring all products going out to our consumers meet our high standards.</p>
+              <h4 id="reviewed-by-experts">Reviewed by experts</h4>
+              <p>“Pure Whey Protein was originally created with one objective in mind: having the purest, simplest whey protein powder with no nonsense and only high quality ingredients” - <a href="https://www.bulk.com/uk/the-core/authors/rowan-cooke/">Rowan Cooke</a> Head of Innovation</p>
+              <p>*Protein contributes to the growth and maintenance of muscle mass.</p>
             </div>
           </div>
           <div>
